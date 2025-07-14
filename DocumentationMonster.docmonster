@@ -1,0 +1,323 @@
+{
+  "title": "Documentation Monster",
+  "owner": "West Wind Technologies",
+  "language": "en-US",
+  "topics": [
+    {
+      "id": "_index",
+      "title": "Documentation Monster Documentation",
+      "slug": "Documentation-Monster",
+      "link": "Documentation-Monster.md",
+      "displayType": "index",
+      "type": "markdown",
+      "sortOrder": 40,
+      "incomplete": true,
+      "isExpanded": true,
+      "updated": "2025-07-13T17:35:58.3602617-07:00",
+      "classInfo": {},
+      "topics": [
+        {
+          "id": "_5cksin5a7e",
+          "parentId": "_index",
+          "title": "What's new",
+          "slug": "Documentation-Monster/Whats-new",
+          "link": "Documentation-Monster/Whats-new.md",
+          "displayType": "whatsnew",
+          "type": "markdown",
+          "isLink": true,
+          "sortOrder": 40,
+          "updated": "2025-06-27T15:19:50.9931107-07:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_4S0144W3G",
+          "parentId": "_index",
+          "title": "Support",
+          "slug": "Documentation-Monster/Support",
+          "link": "Documentation-Monster/Support.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "keywords": "",
+          "seeAlso": "",
+          "remarks": "",
+          "example": "",
+          "sortOrder": 30,
+          "updated": "2025-07-14T11:20:43.4904495-07:00",
+          "helpId": "366",
+          "classInfo": {
+            "assembly": "",
+            "contract": "",
+            "exceptions": ""
+          }
+        },
+        {
+          "id": "_bj5qsua5rj",
+          "parentId": "_index",
+          "title": "Data Privacy",
+          "slug": "Documentation-Monster/Data-Privacy",
+          "link": "Documentation-Monster/Data-Privacy.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 20,
+          "updated": "2025-06-27T17:14:57.6253187-07:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_x9tur8cjrs",
+          "parentId": "_index",
+          "title": "License",
+          "slug": "Documentation-Monster/License",
+          "link": "Documentation-Monster/License.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "isLink": true,
+          "sortOrder": 10,
+          "updated": "2025-06-28T09:55:37.1656156-07:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_i3ysxsyh96",
+          "parentId": "_index",
+          "title": "Documentation Monster Structural Overview",
+          "slug": "Documentation-Monster/Documentation-Monster-Structural-Overview",
+          "link": "Documentation-Monster/Documentation-Monster-Structural-Overview.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2025-06-28T11:37:20.0992689-07:00",
+          "classInfo": {}
+        }
+      ]
+    },
+    {
+      "id": "_hsuphpb0g5",
+      "title": "Getting Started",
+      "slug": "Getting-Started",
+      "link": "Getting-Started.md",
+      "displayType": "header",
+      "type": "markdown",
+      "sortOrder": 30,
+      "updated": "2025-06-24T09:38:30.7855877-07:00",
+      "classInfo": {},
+      "topics": [
+        {
+          "id": "_rstodt1j1v",
+          "parentId": "_hsuphpb0g5",
+          "title": "Creating a new Project",
+          "slug": "Getting-Started/Creating-a-new-Project-1",
+          "link": "Getting-Started/Creating-a-new-Project-1.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 10,
+          "updated": "2025-06-24T10:12:10.2808015-07:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_q3p2dafghs",
+          "parentId": "_hsuphpb0g5",
+          "title": "Creating new Topics",
+          "slug": "Getting-Started/Creating-new-Topics",
+          "link": "Getting-Started/Creating-new-Topics.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2025-06-24T17:25:48.1087301-07:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_y43spjehqz",
+          "parentId": "_hsuphpb0g5",
+          "title": "Editing Topics",
+          "slug": "Getting-Started/Editing-Topics",
+          "link": "Getting-Started/Editing-Topics.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2025-06-26T15:33:01.6912187-07:00",
+          "classInfo": {}
+        }
+      ]
+    },
+    {
+      "id": "_pgv71jremd",
+      "title": "Output Generation",
+      "slug": "Output-Generation",
+      "link": "Output-Generation.md",
+      "displayType": "header",
+      "type": "markdown",
+      "sortOrder": 20,
+      "updated": "2025-07-07T16:21:41.1717499-07:00",
+      "classInfo": {},
+      "topics": [
+        {
+          "id": "_3aiujpecyp",
+          "parentId": "_pgv71jremd",
+          "title": "Build a Static Web Site",
+          "slug": "Output-Generation/Build-a-Static-Web-Site",
+          "link": "Output-Generation/Build-a-Static-Web-Site.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2025-07-07T15:00:07.6920616-07:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_enww15z580",
+          "parentId": "_pgv71jremd",
+          "title": "Create a Self-Contained Documentation Viewer Exe",
+          "slug": "Output-Generation/Create-a-Self-Contained-Documentation-Viewer-Exe",
+          "link": "Output-Generation/Create-a-Self-Contained-Documentation-Viewer-Exe.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "keywords": "Viewer, Offline, Chm ",
+          "updated": "2025-07-07T16:11:14.1423548-07:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_75ru5oj7g9",
+          "parentId": "_pgv71jremd",
+          "title": "Publish Generated Documentation",
+          "slug": "Output-Generation/Publish-Generated-Documentation",
+          "link": "Output-Generation/Publish-Generated-Documentation.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2025-07-07T15:13:15.3135924-07:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_arazpssdfr",
+          "parentId": "_pgv71jremd",
+          "title": "Upload to an Ftp Server",
+          "slug": "Output-Generation/Upload-to-an-Ftp-Server",
+          "link": "Output-Generation/Upload-to-an-Ftp-Server.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2025-07-07T15:46:50.9776747-07:00",
+          "classInfo": {}
+        }
+      ]
+    },
+    {
+      "id": "_cvjhyeceq0",
+      "title": "Features",
+      "slug": "Features",
+      "link": "Features.md",
+      "displayType": "header",
+      "type": "markdown",
+      "sortOrder": 10,
+      "updated": "2025-06-23T21:54:14.8891981-07:00",
+      "classInfo": {},
+      "topics": [
+        {
+          "id": "_74a4wug8wx",
+          "parentId": "_cvjhyeceq0",
+          "title": "Importing Projects",
+          "slug": "Features/Importing-Projects",
+          "link": "Features/Importing-Projects.md",
+          "displayType": "header",
+          "type": "markdown",
+          "sortOrder": 10,
+          "updated": "2025-06-28T09:55:59.324336-07:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_8xf80jid4d",
+              "parentId": "_74a4wug8wx",
+              "title": "Import from West Wind Html Help Builder",
+              "slug": "Features/Importing-Projects/Import-from-West-Wind-Html-Help-Builder",
+              "link": "Features/Importing-Projects/Import-from-West-Wind-Html-Help-Builder.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2025-06-28T10:37:17.1598477-07:00",
+              "classInfo": {}
+            },
+            {
+              "id": "_nzmseyudxo",
+              "parentId": "_74a4wug8wx",
+              "title": "Import Markdown Files from a File System Folder",
+              "slug": "Features/Importing-Projects/Import-Markdown-Files-from-a-File-System-Folder",
+              "link": "Features/Importing-Projects/Import-Markdown-Files-from-a-File-System-Folder.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2025-06-28T10:16:11.9338306-07:00",
+              "classInfo": {}
+            }
+          ]
+        },
+        {
+          "id": "_ou320q35c2",
+          "parentId": "_cvjhyeceq0",
+          "title": "OpenApi Rest Service Import",
+          "slug": "Features/OpenApi-Rest-Service-Import",
+          "link": "Features/OpenApi-Rest-Service-Import.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "isExpanded": true,
+          "updated": "2025-07-13T16:52:27.4524021-07:00",
+          "classInfo": {}
+        }
+      ]
+    },
+    {
+      "id": "_mumtqchie1",
+      "title": "FAQ",
+      "slug": "FAQ",
+      "link": "FAQ.md",
+      "displayType": "header",
+      "type": "markdown",
+      "isExpanded": true,
+      "updated": "2025-07-13T16:53:01.5662218-07:00",
+      "classInfo": {},
+      "topics": [
+        {
+          "id": "_67xc6w6g2h",
+          "parentId": "_mumtqchie1",
+          "title": "Backup Your Projects",
+          "slug": "FAQ/Backup-Your-Projects",
+          "link": "FAQ/Backup-Your-Projects.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2025-07-14T11:37:53.8267242-07:00",
+          "classInfo": {}
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "topicTypes": {
+      "index": "Top level topic for the documentation.",
+      "header": "Header topic for sub-topics",
+      "topic": "Generic topic",
+      "whatsnew": "What's new",
+      "weblink": "External link",
+      "classheader": "Class Header",
+      "interface": "Interface",
+      "namespace": "Namespace",
+      "classmethod": "Class method",
+      "classproperty": "Class property",
+      "classfield": "Class field",
+      "classevent": "Class event",
+      "classconstructor": "Class constructor",
+      "enum": "Enumeration",
+      "delegate": "Delegate",
+      "webservice": "Web Service",
+      "database": "Database",
+      "datacolumn": "Data columns",
+      "datafunction": "Data function",
+      "datastoredproc": "Data stored procedure",
+      "datatable": "Data table",
+      "dataview": "Data view",
+      "webserviceendpoint": "Web Service Endpoint"
+    },
+    "webSiteBaseUrl": "https://documentationmonster.com/",
+    "relativeBaseUrl": "/docs/",
+    "webSiteHomeUrl": "https://documentationmonster.com",
+    "supportEmail": "documentationmonster@west-wind.com",
+    "upload": {
+      "hostname": "west-wind.com",
+      "uploadFtpPath": "/Westwind_SysRoot/Web Sites/documentationmonster.com/docs/",
+      "webSiteUrl": "https://documentationmonster.com/docs/",
+      "openWebSite": true,
+      "username": "rstrahl",
+      "deleteExtraFiles": true,
+      "maxUploadConnections": 5
+    },
+    "lastTopicId": "_67xc6w6g2h"
+  }
+}

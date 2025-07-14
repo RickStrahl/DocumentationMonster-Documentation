@@ -1,0 +1,1 @@
+https://github.com/RickStrahl/DocumentationMonster/blob/main/Changelog.md

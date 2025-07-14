@@ -1,0 +1,1 @@
+https://documentationmonster.com/purchase#License

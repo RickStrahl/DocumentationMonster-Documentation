@@ -74,11 +74,11 @@
     <!-- To use a large image use 1200x630 and create images/logo-large.png -->
     <meta name="twitter:card" content="summary_large_image">
     <meta property="og:image"
-        content="{{ Project.Settings.WebSiteBaseUrl.TrimEnd('/') }}{{ Project.Settings.RelativeBaseUrl }}images/logo-large.png" />
+        content="{{ Project.Settings.WebSiteBaseUrl?.TrimEnd('/') }}{{ Project.Settings.RelativeBaseUrl }}images/logo-large.png" />
     {{% } else { }}
     <meta name="twitter:card" content="summary">
     <meta property="og:image"
-        content="{{ Project.Settings.WebSiteBaseUrl.TrimEnd('/') }}{{ Project.Settings.RelativeBaseUrl }}images/logo.png" />
+        content="{{ Project.Settings.WebSiteBaseUrl?.TrimEnd('/') }}{{ Project.Settings.RelativeBaseUrl }}images/logo.png" />
     {{% } }}
 </head>
 <body>    
@@ -90,6 +90,10 @@
                 <i class="fa fa-bars"
                    title="Show or hide the topics list"></i>
             </div>
+               <div class="float-end mt-2 fs-1" title="Documentation is under construction.">
+                   <i class="fa-duotone fa-triangle-person-digging fa-lg fa-beat" 
+                   style="--fa-primary-color: #333; --fa-secondary-color: goldenrod; --fa-secondary-opacity: 1; --fa-animation-duration: 3s;"></i> 
+	           </div>
             <img src="~/images/logo.png" class="banner-logo" />
          
             	<div class="projectname"> {{ Project.Title }}</div>
