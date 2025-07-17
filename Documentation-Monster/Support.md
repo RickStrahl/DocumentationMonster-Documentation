@@ -33,7 +33,6 @@ Your original Email confirmation is sent from **sales&commat;west-wind.com** and
 
 * **Your Order History at store.west-wind.com**  
 If you placed an order in our Web Store you can [log back into your account](https://store.west-wind.com/account/profile) using your email address. Once logged into your profile, you can see your **Order History** on the bottom of the page. Click on the specific order to view the invoice, and from there click on **Resend confirmations** to resend the product confirmation email(s).  
-  
    *If you've forgotten your password, you can recover it by resetting your password on the login form.*
 
 * **Still can't find it?**  

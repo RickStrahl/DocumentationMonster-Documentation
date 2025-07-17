@@ -15,7 +15,7 @@ You can manage backups in several ways:
 Documentation Monster automatically backs up your project when you start the application or open or create a project By default it keeps the last 5 rolling backups in the `%documents%\Documentation Monster\Backups\<yourProject>\Automatic` folder. The number of automatic backups is configurable via the **Automatic Backup Count** configuration setting.
 
 > ##### @icon-warning Backup Size
-> Backups on large projects tend to be sizable as they duplicate your entire project. So you want to weigh diskspace usage vs the number of backups you want to keep around carefully especially on larger projects.
+> Backups on large projects tend to be sizable as they duplicate your entire project. So you want to weigh disk space usage vs the number of backups you want to keep around carefully especially on larger projects.
 
 Automatic backups are meant for emergency failures in case you save content that you didn't mean to and you need to roll back the immediate copy. Because content is backed up in full, you can retrieve individual files or the entire project. 
 
@@ -41,10 +41,15 @@ There's another useful option, **File -> Open Backup Folder** on the menu that l
 While you can put backups wherever you chose we do recommend you use the default location to allow quick access to backups as needed.
 
 ### Alternately: Use Git for Backup
-Documentation Monster has built-in Git support and automatically creates a new Git Repository when a new project is created if it is available. Git of course makes a great way to keep a complete history of your project with only incremental changes saved which makes it more efficient than backups. 
+Documentation Monster has built-in Git support and automatically creates a new Git Repository when a new project is created if it is available. Git makes for a great way to keep a complete history of your project with only incremental changes saved, which is more efficient that continuous full backups.
 
-To commit, use the @icon-brands-git-alt Git icon on the toolbar or **File -> Git -> Commit to Git...** from the main menu to commit changes to your Git repository.
+To commit, use the @icon-brands-git-alt-color:#f05033 Git icon on the toolbar or **File -> Git -> Commit to Git...** from the main menu to commit changes to your Git repository. You can of course also use your own Git Client or run Git from the Terminal via **Tools -> Open Project Folder in Terminal**.
 
-Using Git it's also possible to share your project on GitHub or other social Git hosting site. All DM's files are text based so it's ideally suited to Git repositories.
+Using Git it's also possible to share your project on GitHub or other social Git hosting site. All DM's files are text based, so it's ideally suited to Git repositories.
 
 Git captures the entire project minus certain backup files and without the generated output `wwwroot` folder to reduce file churn. You can always re-generate the `wwwroot` folder output as needed.
+
+> ##### @icon-lightbulb Commit Small and Commit Often
+> Documentation Monster keeps topic content in separate Markdown Files which are easy to merge if changed. However, the project and topic meta data is contained in a large Project file that is in Json format. 
+>
+> If you plan on using Git and share documentation amongst many users, it's recommended you commit small changes, frequently. The reason for this is that the **project file is large and is updated frequently**. Smaller changes are much easier to merge if there are conflicts.
