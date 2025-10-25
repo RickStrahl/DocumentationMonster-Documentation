@@ -1,6 +1,6 @@
-The most likely Publish target of Documentation Output is like a Web site and Documentation Monster lets you quickly upload content to an Ftp server **Publish to Pdf**:
+The most likely Publish target of Documentation Output is a Web site, and Documentation Monster lets you quickly upload content to an Ftp server via **Publish to an FTP Server**:
 
-![Publish To Pdf](./PublishToPdf.png)
+![Publish To Ftp](./PublishToFtp.png)
 
 This dialog configures the Ftp settings to upload to the server.
 
@@ -10,7 +10,7 @@ This dialog configures the Ftp settings to upload to the server.
 > Currently we only support `ftp://` and `sftp://` protocols. `ftps://` (Ftp over SSH) is currently not supported.
 
 > ##### @icon-lightbulb You can also Upload Individual Topics
-> In addition to publishing the entire project you can also quickly update an indidual topic by using the @icon-arrow-up-right-from-square icon in the topic editor which opens this same dialog in single file upload mode.
+> In addition to publishing the entire project you can also quickly update an individual topic by using the @icon-upload-color:text-info icon in the topic editor which opens this same dialog in single file upload mode.
 
 ## Ftp Publish Settings
 
@@ -42,4 +42,4 @@ So uploading a few files often can go very quick, although for large projects th
 Note that the Project Dialog is non-modal so you can leave it open. As you work on a project, DM automatically builds any Html content both for the Previewer and for final Html content in `wwwroot` so the Html content is kept up to date as you work.
 
 > ##### @icon-warning Images are not kept up to date unless you Build
-> While Html in the output `wwwroot` folder is kept up to date, any dependencies and specifically images are not automatically updated. So if you add new images or any other non-Html dependencies into your project you have to rebuild to ensure your project is up to date.
+> While Html in the output `wwwroot` folder is kept up to date as you make topic changes in the editor and meta data, **any dependencies and specifically images are not automatically updated**. So if you add new images or any other non-Html dependencies into your project or change the Table of Contents with new, changed or removed topics, you have to regenerate the Html before publishing to ensure your project is up to date.

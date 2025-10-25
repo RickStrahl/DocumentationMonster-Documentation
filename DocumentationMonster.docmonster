@@ -12,7 +12,7 @@
       "type": "markdown",
       "sortOrder": 40,
       "incomplete": true,
-      "updated": "2025-07-16T22:40:44.0565663-07:00",
+      "updated": "2025-09-23T09:37:08.4196184-10:00",
       "classInfo": {},
       "topics": [
         {
@@ -25,7 +25,7 @@
           "type": "markdown",
           "isLink": true,
           "sortOrder": 40,
-          "updated": "2025-06-27T15:19:50.9931107-07:00",
+          "updated": "2025-06-27T12:19:50.9931107-10:00",
           "classInfo": {}
         },
         {
@@ -41,7 +41,7 @@
           "remarks": "",
           "example": "",
           "sortOrder": 30,
-          "updated": "2025-07-13T17:43:11.4359686-07:00",
+          "updated": "2025-07-17T18:50:39.8568606-10:00",
           "helpId": "366",
           "classInfo": {
             "assembly": "",
@@ -58,7 +58,7 @@
           "displayType": "topic",
           "type": "markdown",
           "sortOrder": 20,
-          "updated": "2025-06-27T17:14:57.6253187-07:00",
+          "updated": "2025-07-23T06:32:10.8612292-10:00",
           "classInfo": {}
         },
         {
@@ -71,7 +71,7 @@
           "type": "markdown",
           "isLink": true,
           "sortOrder": 10,
-          "updated": "2025-06-28T09:55:37.1656156-07:00",
+          "updated": "2025-06-28T06:55:37.1656156-10:00",
           "classInfo": {}
         },
         {
@@ -82,7 +82,7 @@
           "link": "Documentation-Monster/Documentation-Monster-Structural-Overview.md",
           "displayType": "topic",
           "type": "markdown",
-          "updated": "2025-06-28T11:37:20.0992689-07:00",
+          "updated": "2025-06-28T08:37:20.0992689-10:00",
           "classInfo": {}
         }
       ]
@@ -95,7 +95,7 @@
       "displayType": "header",
       "type": "markdown",
       "sortOrder": 30,
-      "updated": "2025-06-24T09:38:30.7855877-07:00",
+      "updated": "2025-06-24T06:38:30.7855877-10:00",
       "classInfo": {},
       "topics": [
         {
@@ -107,7 +107,7 @@
           "displayType": "topic",
           "type": "markdown",
           "sortOrder": 10,
-          "updated": "2025-06-24T10:12:10.2808015-07:00",
+          "updated": "2025-09-13T19:48:47.2837034-10:00",
           "classInfo": {}
         },
         {
@@ -118,7 +118,8 @@
           "link": "Getting-Started/Creating-new-Topics.md",
           "displayType": "topic",
           "type": "markdown",
-          "updated": "2025-06-24T17:25:48.1087301-07:00",
+          "seeAlso": "Editing Topics",
+          "updated": "2025-06-24T14:25:48.1087301-10:00",
           "classInfo": {}
         },
         {
@@ -129,7 +130,8 @@
           "link": "Getting-Started/Editing-Topics.md",
           "displayType": "topic",
           "type": "markdown",
-          "updated": "2025-06-26T15:33:01.6912187-07:00",
+          "seeAlso": "Creating new Topics",
+          "updated": "2025-06-26T12:33:01.6912187-10:00",
           "classInfo": {}
         }
       ]
@@ -142,18 +144,43 @@
       "displayType": "header",
       "type": "markdown",
       "sortOrder": 20,
-      "updated": "2025-07-07T16:21:41.1717499-07:00",
+      "updated": "2025-09-13T19:10:49.0842983-10:00",
       "classInfo": {},
       "topics": [
         {
           "id": "_3aiujpecyp",
           "parentId": "_pgv71jremd",
-          "title": "Build a Static Web Site",
+          "title": "Build Project: Create a Static Web Site",
           "slug": "Output-Generation/Build-a-Static-Web-Site",
           "link": "Output-Generation/Build-a-Static-Web-Site.md",
           "displayType": "topic",
           "type": "markdown",
-          "updated": "2025-07-07T15:00:07.6920616-07:00",
+          "sortOrder": 30,
+          "updated": "2025-07-07T12:00:07.6920616-10:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_75ru5oj7g9",
+          "parentId": "_pgv71jremd",
+          "title": "Publish Generated Documentation",
+          "slug": "Output-Generation/Publish-Generated-Documentation",
+          "link": "Output-Generation/Publish-Generated-Documentation.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 20,
+          "updated": "2025-07-07T12:13:15.3135924-10:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_arazpssdfr",
+          "parentId": "_pgv71jremd",
+          "title": "Upload to an Ftp Server",
+          "slug": "Output-Generation/Upload-to-an-Ftp-Server",
+          "link": "Output-Generation/Upload-to-an-Ftp-Server.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 10,
+          "updated": "2025-09-26T11:07:41.3183668-10:00",
           "classInfo": {}
         },
         {
@@ -165,29 +192,7 @@
           "displayType": "topic",
           "type": "markdown",
           "keywords": "Viewer, Offline, Chm ",
-          "updated": "2025-07-07T16:11:14.1423548-07:00",
-          "classInfo": {}
-        },
-        {
-          "id": "_75ru5oj7g9",
-          "parentId": "_pgv71jremd",
-          "title": "Publish Generated Documentation",
-          "slug": "Output-Generation/Publish-Generated-Documentation",
-          "link": "Output-Generation/Publish-Generated-Documentation.md",
-          "displayType": "topic",
-          "type": "markdown",
-          "updated": "2025-07-07T15:13:15.3135924-07:00",
-          "classInfo": {}
-        },
-        {
-          "id": "_arazpssdfr",
-          "parentId": "_pgv71jremd",
-          "title": "Upload to an Ftp Server",
-          "slug": "Output-Generation/Upload-to-an-Ftp-Server",
-          "link": "Output-Generation/Upload-to-an-Ftp-Server.md",
-          "displayType": "topic",
-          "type": "markdown",
-          "updated": "2025-07-07T15:46:50.9776747-07:00",
+          "updated": "2025-07-07T13:11:14.1423548-10:00",
           "classInfo": {}
         }
       ]
@@ -200,7 +205,7 @@
       "displayType": "header",
       "type": "markdown",
       "sortOrder": 10,
-      "updated": "2025-06-23T21:54:14.8891981-07:00",
+      "updated": "2025-06-23T18:54:14.8891981-10:00",
       "classInfo": {},
       "topics": [
         {
@@ -212,7 +217,7 @@
           "displayType": "header",
           "type": "markdown",
           "sortOrder": 10,
-          "updated": "2025-06-28T09:55:59.324336-07:00",
+          "updated": "2025-06-28T06:55:59.324336-10:00",
           "classInfo": {},
           "topics": [
             {
@@ -223,7 +228,7 @@
               "link": "Features/Importing-Projects/Import-from-West-Wind-Html-Help-Builder.md",
               "displayType": "topic",
               "type": "markdown",
-              "updated": "2025-06-28T10:37:17.1598477-07:00",
+              "updated": "2025-06-28T07:37:17.1598477-10:00",
               "classInfo": {}
             },
             {
@@ -234,7 +239,7 @@
               "link": "Features/Importing-Projects/Import-Markdown-Files-from-a-File-System-Folder.md",
               "displayType": "topic",
               "type": "markdown",
-              "updated": "2025-06-28T10:16:11.9338306-07:00",
+              "updated": "2025-06-28T07:16:11.9338306-10:00",
               "classInfo": {}
             }
           ]
@@ -248,7 +253,7 @@
           "displayType": "topic",
           "type": "markdown",
           "isExpanded": true,
-          "updated": "2025-07-13T16:52:27.4524021-07:00",
+          "updated": "2025-07-23T06:31:20.8902544-10:00",
           "classInfo": {}
         }
       ]
@@ -260,7 +265,7 @@
       "link": "FAQ.md",
       "displayType": "header",
       "type": "markdown",
-      "updated": "2025-07-13T16:53:01.5662218-07:00",
+      "updated": "2025-07-13T13:53:01.5662218-10:00",
       "classInfo": {},
       "topics": [
         {
@@ -272,13 +277,14 @@
           "displayType": "topic",
           "type": "markdown",
           "keywords": "Backup, Git, Zip",
-          "updated": "2025-07-16T20:45:35.8861769-07:00",
+          "updated": "2025-07-16T17:45:35.8861769-10:00",
           "classInfo": {}
         }
       ]
     }
   ],
   "settings": {
+    "renderTheme": "Dharkan",
     "topicTypes": {
       "index": "Top level topic for the documentation.",
       "header": "Header topic for sub-topics",
@@ -315,8 +321,8 @@
       "openWebSite": true,
       "username": "rstrahl",
       "deleteExtraFiles": true,
-      "maxUploadConnections": 5
+      "maxUploadConnections": 10
     },
-    "lastTopicId": "_hsuphpb0g5"
+    "lastTopicId": "_3aiujpecyp"
   }
 }

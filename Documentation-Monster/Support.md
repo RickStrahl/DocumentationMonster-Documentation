@@ -9,10 +9,10 @@ The Documentation Monster **Github repository** can be used to report bugs, feat
 * [General Questions](https://support.west-wind.com/thread4nm0m17rc.wwt) <small>(Message Board)</small>  
 For more general questions about how things work, or open ended discussion of features, licensing or perhaps questions about creating your own add-ins for Documentation Monster, the support forum provides a more open ended discussion forum. It's best suited to longer discussions or indirectly related issues to Documentation Monster's core feature set.
 
-> #### @icon-info-circle Please provide Version Information
-> When reporting a bug, please provide Documentation Monster version information. You can get all the information into the clipboard from **Help -> About** and clicking on the info icon:
-> 
-> ![About With Version Info](/Documentation-Monster/AboutWithVersionInfo.png)
+### @icon-info-circle Please provide Version Information
+When reporting a bug, please provide Documentation Monster version information. You can get all the information into the clipboard from **Help -> About** and clicking on the info icon:
+ 
+![About With Version Info](/Documentation-Monster/AboutWithVersionInfo.png)
 
 ## Find your License
 A common request is how to find your license information and registration key, for use with a new machine or a lost registration for an existing machine.  

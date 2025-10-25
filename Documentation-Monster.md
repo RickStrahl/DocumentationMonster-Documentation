@@ -1,7 +1,7 @@
-![Markdown Monster Banner](/images/DocumentationMonsterLogo.jpg){style="max-width: 600px; width: 100%"}
+![Documentation Monster Banner](/images/DocumentationMonsterLogo.jpg){style="max-width: 600px; width: 100%"}
     
-
-> ### <i class="fa-duotone fa-triangle-person-digging fa-lg " style="font-size: 1.5em; --fa-primary-color: #333; --fa-secondary-color: goldenrod; --fa-secondary-opacity: 1;"></i>  This Documentation is still under construction
+> ### <i class="fa-duotone fa-triangle-person-digging fa-lg fa-beat " style="font-size: 3.5em;padding-top: 0.5em; --fa-primary-color: #333; --fa-secondary-color: goldenrod; --fa-secondary-opacity: 1; --fa-animation-duration: 3s"></i>  
+> ### This Documentation is still under construction
 
 Documentation Monster is a powerful, yet easy to use Markdown based tool for creating structured technical documentation. Based on Markdown Monster's powerful Markdown editor, Documentation Monster adds rich project management to create, edit, manage and publish technical documentation online, or publish it in various output formats including Html, Pdf, a self-contained viewer.
 
