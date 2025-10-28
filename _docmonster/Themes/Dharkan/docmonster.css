@@ -410,7 +410,7 @@ table p { margin-bottom: 0.5em; }
     display: none;
 }
 .topic-outline a {
-    font-weight: normal !important;;
+    font-weight: normal !important;
 }
 @media(min-width: 1100px){     
     .topic-outline {        
@@ -851,6 +851,9 @@ code.line-highlight {
     }
     h1 {
         page-break-before: always;        
+    }
+    h1:first-of-type {
+        page-break-before:auto;
     }
     .page-header-text {
         page-break-before: always;
