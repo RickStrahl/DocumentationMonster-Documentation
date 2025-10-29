@@ -23,14 +23,14 @@ Here's what the new project looks like once created:
 You can now edit this [new topic](dm-topic://_q3p2dafghs). The center pane contains the main topic content, while the pane on the right contains the topic editor where topic meta data is stored:
 
 * Topic Title
-* Topic Type (topic, header, classheader, etc.)
-* Topic Content Type (markdown, html)
+* Topic Type (`topic`, `header`, `classheader`, etc.)
+* Topic Content Type (`markdown`, `html`)
 * Keywords
 * Notes/Remarks
 * See Also
 * Slug (relative path with topic id)
 * Link (to the content Markdown file on disk)
 
-For certain types of topics like Classes or Databases or Service items there will be additional fields that map to these specific features (ie. Classname, member name etc.) These are typically only used for imports but they become available for specific topic types only in the topic editor.
+For certain types of topics like Classes or Databases or Service items there will be additional fields that map to these specific features (ie. class name, member name etc.) These are typically only used for imports but they become available for specific topic types only in the topic editor.
 
 Any changes you make are immediately applied and saved and you can see them applied in the previewer. As you type into the content pane content is updated.
