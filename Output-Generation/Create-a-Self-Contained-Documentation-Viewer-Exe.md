@@ -1,4 +1,4 @@
-We've often been asked to provide offline documentation that can be distributed, similar to the way you could distribute old Html Help Files (CHM) files to users in the past. The CHM format has long been abandoned, and it uses the completely outdated Web Browser Control that fails with most modern Html content, including the Web site content generated from Documentation Builder.
+xxx We've often been asked to provide offline documentation that can be distributed, similar to the way you could distribute old Html Help Files (CHM) files to users in the past. The CHM format has long been abandoned, and it uses the completely outdated Web Browser Control that fails with most modern Html content, including the Web site content generated from Documentation Builder.
 
 ## Generating an Offline Documentation Viewer for your Project
 However, to address this offline viewer scenario - at least for Windows - Documentation Monster provides the ability to package the generated Documentation Web site into a self-contained, single file executable that you can distribute to your customers.
@@ -29,4 +29,4 @@ In order to use this Exe you need:
 
 * A recently patched version of Windows 10+
 
-The patch requirement is due to the WebView requirements that need to be somewhat up to date.
+The patch requirement is due to the WebView Runtime requirements that need to be somewhat up to date.

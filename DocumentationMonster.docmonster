@@ -41,7 +41,7 @@
           "remarks": "",
           "example": "",
           "sortOrder": 30,
-          "updated": "2025-10-28T13:56:45.0193012-10:00",
+          "updated": "2025-11-04T12:13:37.7642627-10:00",
           "helpId": "366",
           "classInfo": {
             "assembly": "",
@@ -58,7 +58,7 @@
           "displayType": "topic",
           "type": "markdown",
           "sortOrder": 20,
-          "updated": "2025-07-23T06:32:10.8612292-10:00",
+          "updated": "2025-11-03T22:05:27.5608916-10:00",
           "classInfo": {}
         },
         {
@@ -144,7 +144,7 @@
       "displayType": "header",
       "type": "markdown",
       "sortOrder": 20,
-      "updated": "2025-09-13T19:10:49.0842983-10:00",
+      "updated": "2025-11-04T12:14:53.9719838-10:00",
       "classInfo": {},
       "topics": [
         {
@@ -169,7 +169,7 @@
           "displayType": "topic",
           "type": "markdown",
           "sortOrder": 20,
-          "updated": "2025-07-07T12:13:15.3135924-10:00",
+          "updated": "2025-11-04T12:22:12.7666168-10:00",
           "classInfo": {}
         },
         {
@@ -193,7 +193,7 @@
           "displayType": "topic",
           "type": "markdown",
           "keywords": "Viewer, Offline, Chm ",
-          "updated": "2025-07-07T13:11:14.1423548-10:00",
+          "updated": "2026-01-30T12:01:28.0923164-10:00",
           "classInfo": {}
         }
       ]
@@ -206,6 +206,7 @@
       "displayType": "header",
       "type": "markdown",
       "sortOrder": 10,
+      "isExpanded": true,
       "updated": "2025-06-23T18:54:14.8891981-10:00",
       "classInfo": {},
       "topics": [
@@ -254,7 +255,7 @@
           "displayType": "topic",
           "type": "markdown",
           "isExpanded": true,
-          "updated": "2025-10-28T13:55:59.3071063-10:00",
+          "updated": "2026-02-16T17:49:08.7732793-10:00",
           "classInfo": {}
         }
       ]
@@ -299,6 +300,7 @@
   "settings": {
     "renderTheme": "Dharkan",
     "renderThemeMode": "light",
+    "showTocIcons": true,
     "topicTypes": {
       "index": "Top level topic for the documentation.",
       "header": "Header topic for sub-topics",
@@ -329,13 +331,13 @@
     "webSiteHomeUrl": "https://documentationmonster.com",
     "supportEmail": "documentationmonster@west-wind.com",
     "upload": {
-      "hostname": "west-wind.com",
+      "hostname": "ftp.west-wind.com",
       "uploadFtpPath": "/Westwind_SysRoot/Web Sites/documentationmonster.com/docs/",
       "webSiteUrl": "https://documentationmonster.com/docs/",
       "username": "rstrahl",
+      "useTls": true,
       "deleteExtraFiles": true,
-      "maxUploadConnections": 10
-    },
-    "lastTopicId": "_vz2aj0whob"
+      "maxUploadConnections": 50
+    }
   }
 }

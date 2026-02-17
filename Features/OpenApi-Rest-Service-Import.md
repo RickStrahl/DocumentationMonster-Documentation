@@ -9,6 +9,13 @@ You can also access this same link from **Tools -> Import -> Import OpenApi Rest
 
 ![Import Open Api Dialog](./ImportOpenApiDialog.png)
 
+> #### @icon-lightbulb Try it out!
+> You can try this out with the following public OpenApi Url:  
+>
+> * https://petstore3.swagger.io/api/v3/openapi.json
+>
+> Paste this url into the *Import from Url* textbox and then click **Import Service**.
+
 In this dialog you can specify OpenApi or Swagger content from:
 
 * **Online Url**  
