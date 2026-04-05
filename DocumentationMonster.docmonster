@@ -206,7 +206,6 @@
       "displayType": "header",
       "type": "markdown",
       "sortOrder": 10,
-      "isExpanded": true,
       "updated": "2025-06-23T18:54:14.8891981-10:00",
       "classInfo": {},
       "topics": [
@@ -242,6 +241,66 @@
               "displayType": "topic",
               "type": "markdown",
               "updated": "2025-10-27T15:22:32.702144-10:00",
+              "classInfo": {}
+            }
+          ]
+        },
+        {
+          "id": "_usyf3qg7bd",
+          "parentId": "_cvjhyeceq0",
+          "title": "Topic Render Templates",
+          "slug": "Features/Topic-Render-Templates",
+          "link": "Features/Topic-Render-Templates.md",
+          "displayType": "header",
+          "type": "markdown",
+          "updated": "2026-03-25T14:52:04.6690651-10:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_fmhs25ykjy",
+              "parentId": "_usyf3qg7bd",
+              "title": "How Topic Templates Work",
+              "slug": "Features/Topic-Render-Templates/How-Topic-Templates-Work",
+              "link": "Features/Topic-Render-Templates/How-Topic-Templates-Work.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "sortOrder": 30,
+              "updated": "2026-03-25T14:34:31.2690608-10:00",
+              "classInfo": {}
+            },
+            {
+              "id": "_rgtai2qdc6",
+              "parentId": "_usyf3qg7bd",
+              "title": "Customizing Topic Templates",
+              "slug": "Features/Topic-Render-Templates/Customizing-Topic-Templates",
+              "link": "Features/Topic-Render-Templates/Customizing-Topic-Templates.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "sortOrder": 20,
+              "updated": "2026-03-25T13:28:49.8731463-10:00",
+              "classInfo": {}
+            },
+            {
+              "id": "_3v1etztqbv",
+              "parentId": "_usyf3qg7bd",
+              "title": "Updating Topic Templates",
+              "slug": "Features/Topic-Render-Templates/Updating-Topic-Templates",
+              "link": "Features/Topic-Render-Templates/Updating-Topic-Templates.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "sortOrder": 10,
+              "updated": "2026-03-25T15:10:16.7126642-10:00",
+              "classInfo": {}
+            },
+            {
+              "id": "_6d1646jqgc",
+              "parentId": "_usyf3qg7bd",
+              "title": "Documentation Monster Template Syntax VS Code Extension",
+              "slug": "Features/Topic-Render-Templates/Documentation-Monster-Template-Syntax-VS-Code-Extension",
+              "link": "Features/Topic-Render-Templates/Documentation-Monster-Template-Syntax-VS-Code-Extension.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2026-03-25T14:23:13.6244023-10:00",
               "classInfo": {}
             }
           ]
@@ -335,7 +394,6 @@
       "uploadFtpPath": "/Westwind_SysRoot/Web Sites/documentationmonster.com/docs/",
       "webSiteUrl": "https://documentationmonster.com/docs/",
       "username": "rstrahl",
-      "useTls": true,
       "deleteExtraFiles": true,
       "maxUploadConnections": 50
     }
