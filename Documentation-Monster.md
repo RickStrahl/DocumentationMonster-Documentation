@@ -1,8 +1,5 @@
 ![Documentation Monster Banner](/images/DocumentationMonsterLogo.jpg){style="max-width: 600px; width: 100%"}
 
-
-THIS IS A TEST AND UPDATED FILE
-    
 > ### <i class="fa-duotone fa-triangle-person-digging fa-lg fa-beat " style="font-size: 3.5em;padding-top: 0.5em; --fa-primary-color: #333; --fa-secondary-color: goldenrod; --fa-secondary-opacity: 1; --fa-animation-duration: 3s"></i>  
 > ### This Documentation is still under construction
 
